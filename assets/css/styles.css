@@ -293,14 +293,18 @@ img {
 .skills__html {
   width: 95%;
 }
-.skills__css {
-  width: 85%;
+.skills__opencv {
+  width: 50%;
 }
-.skills__js {
-  width: 65%;
+.skills__python {
+  width: 70%;
 }
-.skills__ux {
-  width: 85%;
+.skills__ml {
+  width: 60%;
+}
+.skills__c
+{
+  width: 70%;
 }
 .skills__img {
   border-radius: 0.5rem;
@@ -358,7 +362,7 @@ img {
   margin-bottom: var(--mb-4);
 }
 .footer__icon {
-  font-size: 1.5rem;
+  font-size: 10px;
   color: #fff;
   margin: 0 var(--mb-2);
 }
